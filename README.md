@@ -10,7 +10,7 @@ Template de Readme para os seus projetos
 
 De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
 
-![](../header.png)
+![](../assets/header.png)
 
 ## Instalação
 
